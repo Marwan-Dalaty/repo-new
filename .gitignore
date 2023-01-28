@@ -1,6 +1,6 @@
 
 #main
 #mainfile
-!mainfile/dev
-mainfile/
+mainfile/*
+!mainfile/dev/
 #mainfile/
