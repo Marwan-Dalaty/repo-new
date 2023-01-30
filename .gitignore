@@ -4,4 +4,4 @@
 mainfile/*
 !mainfile/dev/
 #mainfile/
-test*.txt
+#test*.txt
