@@ -5,3 +5,6 @@ mainfile/*
 !mainfile/dev/
 #mainfile/
 #test*.txt
+file/*
+file/filesub/text*.txt
+!file/filesub
